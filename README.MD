@@ -5,7 +5,7 @@
 [![npm version](https://img.shields.io/npm/v/naileys.svg)](https://www.npmjs.com/package/naileys)
 [![License](https://img.shields.io/badge/license-GPL%203-blue.svg)](LICENSE)
 [![Downloads](https://img.shields.io/npm/dm/naileys.svg)](https://www.npmjs.com/package/naileys)
-
+![Naileys Banner](https://files.catbox.moe/4flt15.jpg)
 </div>
 ---
 
