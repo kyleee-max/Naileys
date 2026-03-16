@@ -7,9 +7,6 @@
 [![Downloads](https://img.shields.io/npm/dm/naileys.svg)](https://www.npmjs.com/package/naileys)
 
 </div>
-
-## 💝 Donasi
-
 ---
 
 ## ✨ Fitur Utama
