@@ -1,6 +1,6 @@
 {
   "name": "naileys",
-  "version": "0.5.6",
+  "version": "0.5.4",
   "description": "WhatsApp Web API Library",
   "keywords": [
     "naileys",
@@ -28,11 +28,13 @@
     "./package.json": "./package.json",
     "./*": "./*"
   },
-  "types": "lib/index.d.ts",
+  "types": "types/lib/index.d.ts",
   "files": [
     "lib/*",
     "WAProto/*",
-    "engine-requirements.js"
+    "engine-requirements.js",
+    "index.mjs",
+    "types/"
   ],
   "scripts": {
     "build:all": "tsc && typedoc",
